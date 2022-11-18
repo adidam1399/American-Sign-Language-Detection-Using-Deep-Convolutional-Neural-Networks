@@ -2,7 +2,7 @@
 
 The ipynb file is attached with the repository.
 
-This project is a part of EE541-A Computational Introduction to Deep Learning. The goal of this project is to create a model to interpret the static alphabets from American Sign Language using Convolutional Neural Networks.
+This project is a part of EE541-A Computational Introduction to Deep Learning. The goal of this project is to create a model to interpret the static alphabets from American Sign Language using Convolutional Neural Networks by varying the hyperparameters of CNN architectures and obtain a best model for detection.
 
 # Setup(Kaggle Kernels with GPU)
 We have trained the model on Kaggle notebooks with the help of the GPU provided on this platform. 
